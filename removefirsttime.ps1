@@ -1,0 +1,1 @@
+rm firsttime.ps1
